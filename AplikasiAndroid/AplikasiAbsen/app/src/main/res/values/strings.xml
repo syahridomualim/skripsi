@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">AplikasiAbsen</string>
+
+    <!--    Bottom Navigation-->
+    <string name="dashboard" translatable="false">Dashboard</string>
+    <string name="take_location" translatable="false">Take Location</string>
+    <string name="report_job">Report Job</string>
+
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="take_location_fragment">Take Location Fragment</string>
+    <string name="report_job_fragment">Report Job Fragment</string>
+
+    <string name="setting">Setting</string>
+    <string name="id_employee">Id Employee</string>
+    <string name="password">Password</string>
+
+</resources>

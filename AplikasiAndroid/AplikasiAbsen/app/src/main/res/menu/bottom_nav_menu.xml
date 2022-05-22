@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@drawable/dashboard_24"
+        android:title="@string/dashboard" />
+
+    <item
+        android:id="@+id/nav_take_location"
+        android:icon="@drawable/location_24"
+        android:title="@string/take_location" />
+
+    <item
+        android:id="@+id/nav_report_job"
+        android:icon="@drawable/note_24"
+        android:title="@string/report_job" />
+</menu>
